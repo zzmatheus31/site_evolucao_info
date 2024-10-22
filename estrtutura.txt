@@ -1,0 +1,94 @@
+Estrutura para 10 Páginas sobre a Evolução da Informática
+Página 1: Introdução à Evolução da Informática
+
+Cabeçalho (Header)
+Título da página
+Menu de navegação
+Conteúdo Principal
+Introdução ao tema
+Importância da evolução da informática
+Visão geral do que será abordado nas páginas seguintes
+Rodapé (Footer)
+Informações de contato
+Links para redes sociais
+
+Página 2: As Primeiras Computadoras
+
+Cabeçalho (Header)
+Conteúdo Principal
+Primeiros dispositivos de cálculo (ex: ábaco, máquinas de calcular mecânicas)
+Primeiras computadoras eletrônicas (ex: ENIAC, UNIVAC)
+Impacto e importância histórica
+Rodapé (Footer)
+
+Página 3: A Era dos Mainframes
+
+Cabeçalho (Header)
+Conteúdo Principal
+Desenvolvimento e características dos mainframes
+Exemplos de mainframes notáveis (ex: IBM System/360)
+Aplicações e uso em grandes organizações
+Rodapé (Footer)
+
+Página 4: A Revolução dos Microprocessadores
+
+Cabeçalho (Header)
+Conteúdo Principal
+Introdução ao microprocessador
+Desenvolvimento dos primeiros microprocessadores (ex: Intel 4004, 8080)
+Impacto na computação pessoal e na indústria de informática
+Rodapé (Footer)
+
+Página 5: O Surgimento dos Computadores Pessoais
+
+Cabeçalho (Header)
+Conteúdo Principal
+Desenvolvimento dos primeiros PCs (ex: Apple II, IBM PC)
+Evolução dos sistemas operacionais para PCs
+Impacto na vida cotidiana e no mercado
+Rodapé (Footer)
+
+Página 6: A Era da Internet
+
+Cabeçalho (Header)
+Conteúdo Principal
+Desenvolvimento da ARPANET e da internet
+A evolução dos navegadores web e da web
+Impacto da internet na comunicação e no comércio
+Rodapé (Footer)
+
+Página 7: A Revolução dos Smartphones e Dispositivos Móveis
+
+Cabeçalho (Header)
+Conteúdo Principal
+Desenvolvimento dos primeiros smartphones (ex: IBM Simon, iPhone)
+Evolução dos sistemas operacionais móveis (ex: iOS, Android)
+Impacto na sociedade e na tecnologia
+Rodapé (Footer)
+
+Página 8: Avanços em Computação em Nuvem
+
+Cabeçalho (Header)
+Conteúdo Principal
+Conceito e desenvolvimento da computação em nuvem
+Exemplos de serviços em nuvem (ex: AWS, Google Cloud)
+Benefícios e desafios da computação em nuvem
+Rodapé (Footer)
+
+Página 9: Tendências Futuras na Informática
+
+Cabeçalho (Header)
+Conteúdo Principal
+Tecnologias emergentes (ex: Inteligência Artificial, Computação Quântica)
+Expectativas para o futuro da informática
+Potenciais impactos na sociedade e na economia
+Rodapé (Footer)
+
+Página 10: Conclusão e Reflexões
+
+Cabeçalho (Header)
+Conteúdo Principal
+Resumo da evolução da informática
+Reflexões sobre o progresso tecnológico
+Considerações sobre a importância da inovação contínua
+Rodapé (Footer)
